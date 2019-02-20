@@ -90,7 +90,7 @@ class App extends Component {
   
   render() {
     
-    //added a signin route. If its not signin then will show all the components
+    //added a signin route. If its not signined then will hide all the components
     return (
       <div className="App">
          <Particles className='particles'
